@@ -31,12 +31,8 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["phishingUrls.json"],
+      "resources": ["block.html"],
       "matches": ["<all_urls>"]
     }
-  ],
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": true
-  }
+  ]
 }
